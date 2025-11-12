@@ -1,4 +1,3 @@
-// src/types.ts
 /**
  * Tipos compartidos entre módulos.
  */

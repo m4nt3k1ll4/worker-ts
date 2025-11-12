@@ -1,4 +1,3 @@
-// src/utils/validation.ts
 /**
  * Validaciones para el payload de ts_connection.
  * - validateConnectionPayload: validación completa para creación (POST).

@@ -1,4 +1,3 @@
-// src/index.ts
 /**
  * Entry point del Worker. Enruta peticiones hacia el handler de connections.
  * - Mantén este archivo mínimo: solo importa el handler y re-exporta el fetch.
