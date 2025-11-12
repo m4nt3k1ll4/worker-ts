@@ -118,4 +118,3 @@ export async function handleConnectionsRequest(request: Request, env: Env): Prom
 		return jsonResponse({ status: "error", message }, 500);
 	}
 }
-
